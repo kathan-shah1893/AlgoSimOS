@@ -1,2 +1,1 @@
-SQLAlchemy==0.7.1
-anyjson==0.3
+SQLAlchemy==2.0.20
